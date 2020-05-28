@@ -23,7 +23,7 @@ p:-moz-only-whitespace, li:-moz-only-whitespace, div:-moz-only-whitespace, secti
 
 :root {
     --main-width: 74%;
-    --header-height: 0.8in;
+    --header-height: 0.9in;
     --sidebar-width: calc(100% - var(--main-width));
 }
 
@@ -122,7 +122,7 @@ li .fa, li .fab {
 }
 
 #save > section:first-of-type > section > section > section + section {
-    margin-top: 2em;
+    margin-top: 1em;
 }
 
 #save > section:first-of-type > section > section > section:last-child {
