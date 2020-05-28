@@ -23,7 +23,7 @@ p:-moz-only-whitespace, li:-moz-only-whitespace, div:-moz-only-whitespace, secti
 
 :root {
     --main-width: 74%;
-    --header-height: 1.2in;
+    --header-height: 0.8in;
     --sidebar-width: calc(100% - var(--main-width));
 }
 
